@@ -30,12 +30,12 @@ primeirofilme.nota = nota
 
 
 let segundonome = prompt("Digite o nome do segundo filme: ")
-segundofilme = String(segundonome)
+segundonome = String(segundonome)
 segundofilme.segundonome = segundonome
 
 let segundogenero = prompt("Qual o gênero do segundo filme?: ")
 segundogenero = String(segundogenero)
-primeirofilme.segundogenero = segundogenero
+segundofilme.segundogenero = segundogenero
 
 let segundanota = prompt("Digite o valor da sua nota para ele: ")
 segundanota = Number(segundanota)
